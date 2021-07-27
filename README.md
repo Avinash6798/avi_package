@@ -1,4 +1,4 @@
-# PythonLibrary-Tutorial
+# avi_package
 This is a tutorial project for publishing your own python library on PyPi.
 
 ## Requirments
