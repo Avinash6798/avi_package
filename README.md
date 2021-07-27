@@ -37,9 +37,6 @@ python -m twine upload dist/*
 ```
 
 
-Congratulations your Library/Package is Published Successfully!! You might also got a link like this:
-https://pypi.org/project/AreaOfFigs/
-
 
 If you want to upload through Git repo,
 Add this code after import statements
